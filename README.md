@@ -9,6 +9,8 @@ This is a protocol developed by Long Covid patient [Dr Angela O'Connor](https://
 
 At some point there'll be more justification of each recommendation, but at this point it seemed more important to share things that worked.
 
+A more formal preprint can be found [here](https://www.preprints.org/manuscript/202401.1621)
+
 ## Morning 
 - drink 1-1.5 litres of osmotic salt and berocca fluid
 - take maximum dose of antihistamines, any will do
